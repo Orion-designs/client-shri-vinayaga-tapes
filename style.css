@@ -1117,7 +1117,7 @@ section {
 
     box-shadow:0 10px 30px rgba(0,0,0,.04);
     z-index:100;
-    position: fixed;
+    position: absolute;
     z-index: 1000;
 }
 
