@@ -33,7 +33,7 @@ This website was built to give Shri Vinayaga Tapes a professional online presenc
 
 - HTML5
 - CSS3 (custom styling, no framework)
-- Vanilla JavaScript
+- JavaScript
 - EmailJS (for contact form submissions)
 - Hosted on Netlify
 
